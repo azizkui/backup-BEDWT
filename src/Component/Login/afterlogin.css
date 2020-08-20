@@ -1,0 +1,13 @@
+.bg-img {
+  background: url(../../Assets/images/bg-top.png);
+}
+
+.img-profile {
+  width: 50px;
+
+}
+
+.img-icon {
+  width: 30px;
+  height: 30px;
+}

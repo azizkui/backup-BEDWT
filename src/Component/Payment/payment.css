@@ -1,0 +1,114 @@
+.bg-grey {
+  background-color: rgb(235, 230, 230);
+}
+
+.flexbox-payment {
+  display: flex !important;
+  justify-content: center;
+}
+
+.box-payment {
+  width: 1035px;
+  height: 419px;
+
+  background: rgb(161, 30, 30);
+  border: 2px solid #B7B7B7;
+  /* box-sizing: border-box; */
+  border-radius: 5px;
+  margin-bottom: 8.6rem;
+  margin-top: 3rem;
+
+}
+
+.icon-dw-black {
+  width: 189.48px;
+  height: 68px;
+}
+
+.text-booking {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 36px;
+  line-height: 49px;
+
+  color: #000000;
+}
+
+.text-title-left-destination {
+
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+
+
+  color: #000000;
+
+}
+
+.text-title-destination {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+
+  color: #000000;
+
+
+}
+
+.text-desc-destination {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  /* display: flex;
+  align-items: center; */
+
+  color: #959595;
+}
+
+.waiting-approve {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 16px;
+
+
+  text-align: center;
+
+  color: #FF9900;
+}
+
+.date-booking {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  /* display: flex;
+  align-items: center; */
+
+  color: #878787;
+
+}
+
+.flex-btn-pay {
+  /* display: flex !important;
+  justify-content: flex-end !important; */
+}
+
+.btn-pay-text-style {
+  color: #FFFFFF !important;
+
+}

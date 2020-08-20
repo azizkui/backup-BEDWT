@@ -1,0 +1,27 @@
+.box-personal-profile {
+  display: flex;
+  justify-content: center;
+
+  width: 785px;
+  height: 453px;
+  background: rgb(180, 43, 43);
+  /* Shadow Card */
+
+  box-shadow: 0px 0px 4px rgba(5, 5, 5, 0.08);
+  border-radius: 8px;
+}
+
+.icon-profile-size {
+  width: 35px;
+  height: 35px;
+}
+
+.icon-profile-size-2 {
+  width: 30px;
+  height: 40px;
+}
+
+.btn.center {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,205 @@
+.flexbox-container {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+}
+
+.flexbox-description {
+  /* display: flex;
+  flex-direction: column; */
+}
+
+.flexbox-price {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.flexbox-book-now {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 2rem;
+}
+
+.flexbox-price-and-person {
+  display: flex;
+}
+
+.flexbox-btn-up-down {
+  display: flex;
+
+}
+
+.title-text-content {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 48px;
+  line-height: 66px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+
+.country {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+  color: #A8A8A8;
+
+}
+
+.image-size-1 {
+  width: 1018px;
+  height: 361.16px;
+}
+
+.image-size-2 {
+  width: 329.73px;
+  height: 167.64px;
+  margin-top: 10px;
+  margin-right: 14px;
+}
+
+.information-trip {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 18px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.row-position {
+  display: flex;
+  justify-content: space-between;
+}
+
+.information-trip-text {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 13px;
+  line-height: 18px;
+  /* identical to box height */
+
+  color: #A8A8A8;
+
+  margin-bottom: 7px;
+
+}
+
+.icon-and-text-flex {
+  display: flex;
+}
+
+.icon-trip-information {
+  width: 30px;
+  height: 30px;
+}
+
+.text-icon-trip-information {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+
+  margin-left: 10px;
+}
+
+
+
+.description-trip {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 25px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+  margin-top: 2rem;
+}
+
+.description-trip-text {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 19px;
+  text-align: justify;
+
+  color: #A8A8A8;
+
+  width: 1020px;
+  height: 85px;
+
+  margin-top: 1rem;
+}
+
+.text-price {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #FFAF00;
+}
+
+.text-person {
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-left: 1rem;
+  color: #000000;
+}
+
+.text-total {
+
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 33px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  color: #000000;
+}
